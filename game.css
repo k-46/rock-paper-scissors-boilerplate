@@ -91,4 +91,5 @@ button{
 .playButton{
     background-color: #ffc434;
     border-radius: 4%;
+    cursor: pointer;
 }
